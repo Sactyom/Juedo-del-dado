@@ -66,7 +66,8 @@ public class Ingreso_Algoritmos_Practicos {
                 System.out.println("Paciente Nro"+(i+1)+":");
              System.out.println("Nombre: "+Datos[i][2]);
              System.out.println("Apellido: "+Datos[i][1]);
-             System.out.println("Numero de cedula: "+Datos[i][0]);
+//             System.out.println("Numero de cedula: "+Datos[i][0]);
+System.out.println("Cedula"+Datos[i][0]);
              System.out.println("Numero de telefono: "+Datos[i][3]);
              }
              break;
