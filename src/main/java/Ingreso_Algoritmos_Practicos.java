@@ -86,7 +86,7 @@ System.out.println("Cedula"+Datos[i][0]);
               break;
                      }
                      else if(!Z.equals(Datos[i][0])&&(columnas-1)==i){
-                     System.out.println("Paciente no encontrado");
+                     System.out.println("Paciente no registrado");
                      }
              }
              break;
