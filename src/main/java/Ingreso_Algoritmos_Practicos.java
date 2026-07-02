@@ -92,7 +92,7 @@ System.out.println("Cedula"+Datos[i][0]);
              break;
              } 
             }
-                   System.out.println("Desea seguir navegando por el menu?\nSi=Cualquier numero\nNo=0");
+                   System.out.println("Desea seguir navegando por el menu?\nSi=Cualquier numero\nNo=0 (Cero)");
                    Ep=Registro.nextInt();
                    }while(Ep!=0);
              
