@@ -61,7 +61,8 @@ public class Ingreso_Algoritmos_Practicos {
             switch (M){
                 
              case 1:{
-             System.out.println("Lista de pacientes");
+//             System.out.println("Lista de pacientes");
+System.out.println("Lista de pacientes");
              for(int i=0;i<columnas;i++){
                 System.out.println("Paciente Nro"+(i+1)+":");
              System.out.println("Nombre: "+Datos[i][2]);
