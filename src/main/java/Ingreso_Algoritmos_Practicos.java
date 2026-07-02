@@ -96,7 +96,7 @@ System.out.println("Cedula"+Datos[i][0]);
                    Ep=Registro.nextInt();
                    }while(Ep!=0);
              
-            System.out.println("Desea seguir usando el programa?\nSi=Cualquier numero\nNo=0");
+            System.out.println("Desea seguir usando este programa?\nSi=Cualquier numero\nNo=0");
         X=Registro.nextInt();
         } while (X!=0);
     }
